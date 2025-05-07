@@ -3,6 +3,7 @@
 ## Project Overview
 
 Proyek ini berfokus pada pengembangan sistem rekomendasi produk berbasis konten (*Content-Based Filtering*) menggunakan data penjualan Amazon tahun 2025. Dataset yang digunakan diperoleh dari [Kaggle](https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025) dan berisi 250 transaksi penjualan, mencakup informasi seperti produk, kategori, harga, kuantitas, pelanggan, lokasi, metode pembayaran, dan status pemesanan.
+- Dataset: [https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025](https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025)
 
 Tujuan dari proyek ini adalah memberikan rekomendasi produk yang relevan kepada pelanggan berdasarkan deskripsi produk yang pernah mereka beli atau minati. Dengan pendekatan berbasis deskripsi, model ini mampu merekomendasikan produk meskipun tidak terdapat riwayat pembelian yang lengkap dari pengguna.
 
